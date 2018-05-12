@@ -1,0 +1,33 @@
+_repo: Libraries-in-the-Medieval-and-Renaissance-PeriodsThe-Rede-Lecture-Delivered-June-13-1894_19415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, John Willis
+    alias: Clark, J. W. (John Willis)
+    birthdate: 1833
+    deathdate: 1910
+    gutenberg_agent_id: '8657'
+    url: http://www.gutenberg.org/2009/agents/8657
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manuscripts, Medieval'
+- !lcsh 'Manuscripts, Renaissance'
+- !lcsh 'Libraries -- History -- 400-1400'
+- !lcc 'Z'
+- !lcsh 'Libraries -- History -- 1400-1600'
+title: 'Libraries in the Medieval and Renaissance Periods
+
+  The Rede Lecture Delivered June 13, 1894'
+url: http://www.gutenberg.org/ebooks/19415
