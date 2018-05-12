@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8657'
     url: http://www.gutenberg.org/2009/agents/8657
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19415#Libraries-in-the-Medieval-and-Renaissance-PeriodsThe-Rede-Lecture-Delivered-June-13-1894
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
